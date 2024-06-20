@@ -15,4 +15,4 @@ def sing(singing):
         else:
             print("Take it down, pass it around, no more bottles of beer on the wall!")
             ssing = False
-        n -= 1
+        n = n - 1
